@@ -30,4 +30,4 @@
 поскольку эти таблицы, в силу нормализации данных,  нужны лишь для хранения зависимостей между записями из других таблиц.
 
 Наглядная схема самой БД представлена в файле 
-http://gitlab.icc.spbstu.ru/maynekeen/vape-shop_PostgreSQL/blob/master/vapeshop_db_sch.jpg
+https://github.com/MayneKeen/db-labs/blob/main/vapeshop_db_sch.jpg
