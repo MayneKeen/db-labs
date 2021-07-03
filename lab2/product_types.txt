@@ -1,0 +1,8 @@
+liquid
+device
+cotton
+coil
+rda
+rdta
+accumulator
+detail
